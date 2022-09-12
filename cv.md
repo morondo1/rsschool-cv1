@@ -47,8 +47,8 @@ function multiply(a, b){
 
 
 ## Courses
-* HTML and CSS Tutorials on the [https://ru.code-basics.com/languages/html] (completed)
-* JavaScript Manual on [https://ru.code-basics.com/languages/javascript] (in progress)
+* [HTML and CSS Tutorials](https://ru.code-basics.com/languages/html "link to the course") (completed)
+* [JavaScript Manual](https://ru.code-basics.com/languages/javascript "link to the course") (in progress)
 * RS Schools Course JavaScript/Front-end 2022Q3 (in progress)
 
 
