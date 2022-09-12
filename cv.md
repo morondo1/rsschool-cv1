@@ -12,6 +12,9 @@ Junior front-end developer
 ## About me
 The beginning of my craving for frontend development was the work of an SMM specialist. 
 I was surprised how the Internet unites people. How platforms for finding like-minded people were created. As a couple of intusiasts, they created great projects from sketches on a piece of paper. These stories pushed me to explore the Internet more deeply.
+
+
+
 I intend to learn how to create tools from lines of code that help people learn something new.
 ====
 ## Skills
