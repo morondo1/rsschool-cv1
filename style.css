@@ -25,12 +25,12 @@ body{
   color: #fff;
   text-decoration: none;
 }
-.main-conainer{
+.main-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.conteiner {
+.container {
     max-width: 1440px;
     margin: 0 auto;
     min-height: 50px;
@@ -96,7 +96,7 @@ body{
     padding: 20px;
 
   }
- .footer-conteiner{
+ .footer-container{
     display: flex;
     justify-content: space-between;
     align-items: center;
